@@ -1,4 +1,4 @@
-# program for linear search
+# program for binary search
 # n is number of elements
 n=int(input("Enter the number of elements: "))
 list1=[]
