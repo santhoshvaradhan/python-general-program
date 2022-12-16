@@ -3,7 +3,7 @@
 n=int(input("Enter the number of elements: "))
 list1=[]
 for i in range(n):# loop used get elements for user
-    print("enter the element",i,":")
+    print("enter the element",i+1,":")
     a=input()
     # append function will add elements in list1 it is list
     list1.append(a)
